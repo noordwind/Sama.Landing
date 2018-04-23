@@ -13,6 +13,6 @@ case "$TRAVIS_BRANCH" in
 esac
 
 docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
-docker build -t collectively.landing:$DOCKER_TAG .
-docker tag collectively.landing:$DOCKER_TAG $DOCKER_USERNAME/collectively.landing:$DOCKER_TAG
-docker push $DOCKER_USERNAME/collectively.landing:$DOCKER_TAG
+docker build -t sama.landing:$DOCKER_TAG .
+docker tag sama.landing:$DOCKER_TAG $DOCKER_USERNAME/sama.landing:$DOCKER_TAG
+docker push $DOCKER_USERNAME/sama.landing:$DOCKER_TAG

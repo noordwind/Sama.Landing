@@ -1,4 +1,4 @@
-en:
+hi:
   app:
     name: "Sama"
     navigation:
@@ -25,10 +25,10 @@ en:
       paragraph2: "Thanks to the Blockchain technology, the users might be rewarded with cryptocurriences or tokens for their activites."
     platforms:
       header: "Available on your device wherever you are"
-      description: "Use Sama on the move or at home. Install Sama mobile app or use it in your browser."
+      description: "Use SAMA on the move or at home. Install SAMA mobile app or use it in your browser."
     open_source:
       header: "Developed by an Open Source community"
-      paragraph1: "Sama is an open source platform initiated and initially developed by %{noordwind}."
+      paragraph1: "SAMA is an open source platform initiated and initially developed by %{noordwind}."
       paragraph2: "Not only that is open for anybody to use it free of charge and extend its functionalities, for the counties it prevents the risk of us as a supplier leaving. It is safe for the future and driven by the world-wide developer community."
       github: "Fork on GitHub"
       api: "API documentation"
